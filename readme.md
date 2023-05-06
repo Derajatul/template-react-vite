@@ -1,6 +1,6 @@
-# Template Project React dengan Vite, Tailwind CSS, DaisyUI, Prettier dan ESLint
+# Template Project React dengan Vite, Tailwind CSS, Prettier dan ESLint
 
-Ini adalah sebuah template project untuk membuat aplikasi web menggunakan React, Vite, Tailwind CSS, DaisyUI, Prettier dan ESLint. Template ini memudahkan kamu untuk membuat aplikasi web dengan cepat dan mudah, karena sudah terdapat konfigurasi dasar yang siap digunakan.
+Ini adalah sebuah template project untuk membuat aplikasi web menggunakan React, Vite, Tailwind CSS, Prettier dan ESLint. Template ini memudahkan kamu untuk membuat aplikasi web dengan cepat dan mudah, karena sudah terdapat konfigurasi dasar yang siap digunakan.
 
 ## Fitur
 
