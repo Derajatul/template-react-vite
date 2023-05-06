@@ -7,7 +7,6 @@ Ini adalah sebuah template project untuk membuat aplikasi web menggunakan React,
 - Penggunaan React sebagai library JavaScript utama
 - Penggunaan Vite sebagai bundler dan dev server
 - Penggunaan Tailwind CSS sebagai CSS framework
-- Penggunaan DaisyUI sebagai plugin untuk Tailwind CSS untuk mempermudah pembuatan UI
 - Penggunaan Prettier untuk formatting kode
 - Penggunaan ESLint untuk menganalisis kode dan memastikan kepatuhan dengan standar kode
 
